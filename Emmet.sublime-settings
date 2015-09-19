@@ -1,0 +1,15 @@
+{
+	"snippets": {
+		"html": {
+			"abbreviations": {
+				"jq": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"></script>",
+				"lesty": "<link rel=\"stylesheet/less\" type=\"text/css\" href=\"style.less\" />",
+				"less": "<script src=\"//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.1/less.min.js\"></script>",
+				"style" :	"<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" />",
+				"pplace": "<img src=\"http://placehold.it/300x200\">"
+							}
+		}
+	}
+
+
+}
